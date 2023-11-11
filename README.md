@@ -52,4 +52,8 @@ scala-cli --power package helloworld.scala -o helloworld.jar --assembly`
     ./hi.jar
     ```
 
-Con gratulations!! You now know how to run your own Scala terminal apps on your Android phone! It is pretty cool
+Con gratulations!! You now know how to run your own Scala terminal apps on your Android phone! 
+
+It is pretty cool:
+
+[hi-on-android.jpg](https://github.com/bjornregnell/hi/blob/main/hi-on-android.jpg)
