@@ -40,7 +40,7 @@ scala-cli --power package helloworld.scala -o helloworld.jar --assembly`
 1. Install F-Droid from here: https://f-droid.org/  
   (you need to allow your browser to install unknown apps)
 
-2. Search for in F-droid for "Termux Terminal emulator with packages" and install it by pressing the down-arrow in F-Droid
+2. Search from inside F-droid for "Termux Terminal emulator with packages" and install it by pressing the down-arrow in F-Droid
   (you need to allow F-droid to install unknown apps)
 
 3. Open Termux and type this by the `$` prompt:
