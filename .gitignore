@@ -1,6 +1,5 @@
 *.class
 *.log
-*.jar
 .scala-build
 .bsp
 .metals
