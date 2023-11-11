@@ -45,6 +45,8 @@ scala-cli --power package helloworld.scala -o helloworld.jar --assembly`
 
 3. Open Termux and type this by the `$` prompt:
     ```
+    pkg update
+    pkg upgrade
     pkg install openjdk-17
     pkg install wget
     wget https://github.com/bjornregnell/hi/releases/download/v1/hi.jar
