@@ -6,7 +6,7 @@ It prints "Hello world!" in terminal using this Scala program:
 ```scala
 @main def run = println("Hello world!")
 ```
-
+ 
 # How to run?
 
 Use one of these methods:
