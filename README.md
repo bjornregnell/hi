@@ -56,4 +56,4 @@ Con gratulations!! You now know how to run your own Scala terminal apps on your 
 
 It is pretty cool:
 
-[hi-on-android.jpg](https://github.com/bjornregnell/hi/blob/main/hi-on-android.jpg)
+![hi-on-android.jpg](https://github.com/bjornregnell/hi/blob/main/hi-on-android.jpg)
